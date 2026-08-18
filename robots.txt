@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wpkomal.github.io/docs-mn4uxy/sitemap.xml
